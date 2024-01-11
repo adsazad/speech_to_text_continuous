@@ -2,9 +2,9 @@ import 'package:fake_async/fake_async.dart';
 import 'package:mockito/mockito.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
-import 'package:speech_to_text/speech_recognition_error.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
-import 'package:speech_to_text/speech_to_text.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/speech_to_text.dart';
 import 'package:speech_to_text_platform_interface/speech_to_text_platform_interface.dart';
 
 import 'test_speech_channel_handler.dart';

@@ -5,9 +5,9 @@ import 'dart:js_util' as js_util;
 import 'dart:math';
 
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:speech_to_text/balanced_alternates.dart';
-import 'package:speech_to_text/speech_recognition_error.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/balanced_alternates.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
 import 'package:speech_to_text_platform_interface/speech_to_text_platform_interface.dart';
 
 /// Web implementation of the SpeechToText platform interface. This supports

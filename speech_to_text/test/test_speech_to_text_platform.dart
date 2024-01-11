@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
-import 'package:speech_to_text/speech_recognition_error.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
-import 'package:speech_to_text/speech_to_text.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/speech_to_text.dart';
 import 'package:speech_to_text_platform_interface/speech_to_text_platform_interface.dart';
 
 class TestSpeechToTextPlatform extends SpeechToTextPlatform {

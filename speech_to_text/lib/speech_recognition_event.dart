@@ -1,5 +1,5 @@
-import 'package:speech_to_text/speech_recognition_error.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
 
 enum SpeechRecognitionEventType {
   /// The final transcription of speech for a recognition session. This is

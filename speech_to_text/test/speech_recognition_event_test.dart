@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:speech_to_text/speech_recognition_event.dart';
+import 'package:speech_to_text_continuous/speech_recognition_event.dart';
 
 import 'test_speech_channel_handler.dart';
 

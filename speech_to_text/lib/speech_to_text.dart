@@ -5,8 +5,8 @@ import 'dart:math';
 import 'package:clock/clock.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:speech_to_text/speech_recognition_error.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
 import 'package:speech_to_text_platform_interface/speech_to_text_platform_interface.dart';
 
 /// Describes the goal of your speech recognition to the system.

@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:speech_to_text/speech_recognition_error.dart';
+import 'package:speech_to_text_continuous/speech_recognition_error.dart';
 
 void main() {
   const msg1 = 'msg1';

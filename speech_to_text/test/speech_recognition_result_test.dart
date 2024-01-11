@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:speech_to_text/speech_recognition_result.dart';
+import 'package:speech_to_text_continuous/speech_recognition_result.dart';
 
 void main() {
   final firstRecognizedWords = 'hello';
