@@ -1,5 +1,20 @@
 # Changelog
 
+## 6.5.4
+
+### Fix
+*    putExtra(RecognizerIntent.EXTRA_SPEECH_INPUT_COMPLETE_SILENCE_LENGTH_MILLIS, 1200000), putExtra(RecognizerIntent.EXTRA_SPEECH_INPUT_MINIMUM_LENGTH_MILLIS , 60000)
+
+## 6.5.3
+
+### Fix
+* EXTRA_SPEECH_INPUT_MINIMUM_LENGTH_MILLIS fix
+
+## 6.5.2
+
+### Fix
+* EXTRA_SPEECH_INPUT_COMPLETE_SILENCE_LENGTH_MILLIS and EXTRA_SPEECH_INPUT_MINIMUM_LENGTH_MILLIS are now set to 0 on Android. This should prevent the speech recognizer from timing out on long pauses.
+
 ## 6.5.1
 
 ### Fix
